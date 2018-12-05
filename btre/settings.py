@@ -148,11 +148,7 @@ MESSAGE_TAGS = {
 
 # Email Config
 
-EMAIL_USE_TLS = True
-EMAIL_HOST = 'smtp.mail.yahoo.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'venugudavalli@yahoo.com'
-EMAIL_HOST_PASSWORD = "sreemathi69"
+
 
 try:
     from .local_settings import *
